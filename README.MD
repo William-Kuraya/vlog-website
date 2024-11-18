@@ -2,17 +2,17 @@
 ![Image of Chocolate cake] (blob:https://www.freepik.com/2f0698ed-a8dd-4e5e-a376-bf2deb92690f)
 ###Let us make a simple chocolate cake
 ##Ingredients:
-1. 1 ¾ cups all-purpose flour
-2. ¾ cup unsweetened cocoa powder
-3. 1 ½ teaspoons baking powder
-4. 1 ½ teaspoons baking soda
-5. 1 teaspoon salt
-6. 2 large eggs   
-7. 1 cup milk
-8. ½ cup vegetable oil
-9. 2 teaspoons vanilla extract
-10. 1 cup boiling water   
-11. 1 cup white sugar
+* 1 ¾ cups all-purpose flour
+* ¾ cup unsweetened cocoa powder
+* 1 ½ teaspoons baking powder
+* 1 ½ teaspoons baking soda
+* 1 teaspoon salt
+* 2 large eggs   
+* 1 cup milk
+* ½ cup vegetable oil
+* 2 teaspoons vanilla extract
+* 1 cup boiling water   
+* 1 cup white sugar
 ##Procedure:
 1. Preheat oven: Set your oven to 350°F (175°C).
 2. Prepare pans: Grease and flour two 9-inch round baking pans.
